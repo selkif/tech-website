@@ -1,0 +1,33 @@
+{
+  "Order": [
+    {
+      "id": "80e4",
+      "name": "abebe",
+      "lastName": "aa",
+      "email": "eyob@gmail.com",
+      "order": "Mobile Orders Development",
+      "technologies": [
+        "react"
+      ]
+    },
+    {
+      "id": "76f1",
+      "name": "ww",
+      "lastName": "ww",
+      "email": "selamkiflay10@gmail.com",
+      "order": "Web Development",
+      "technologies": [
+        "vue"
+      ]
+    }
+  ],
+  "technologies": [
+    "react",
+    "php",
+    "django",
+    "vue",
+    "angular",
+    "node.js",
+    "tailwind"
+  ]
+}
