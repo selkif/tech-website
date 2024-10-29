@@ -13,7 +13,7 @@ const About = () => {
       image: teamMember1,
     },
     {
-      name: "Jane Smith",
+      name: "Jamie Smith",
       position: "CTO",
       image: teamMember2,
     },
