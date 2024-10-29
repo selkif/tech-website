@@ -38,7 +38,7 @@ export default function Web() {
                       <div className="font-medium  text-lg"></div>
                       <div className=" w-full">
                         <p className="text-[15px]">
-                          The retail industry has taken a giant leap after the
+                          The retail industry has taken a very giant leap after the
                           incredible success of Amazon and many other shopping
                           platforms around the world. of the total global retail
                           purchase. At present, more than 2 billion worldwide
